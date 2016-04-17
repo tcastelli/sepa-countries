@@ -1,0 +1,11 @@
+{
+  "name": "sepa-countries",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "author": "tcastelli",
+  "license": "MIT",
+  "dependencies": {
+    "vatrates": "^1.2.1"
+  }
+}
